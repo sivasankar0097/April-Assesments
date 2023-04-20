@@ -9,5 +9,5 @@ This is a spin-off of [PSET-1](../PSET-1/). As a continuation fetch two strings 
 
 ## Tasks
 
-First check whether the substring is present inside the string.
-Write a line of code such that it returns the substring from string.
+- First check whether the substring is present inside the string.
+- Write a line of code such that it returns the substring from string.
